@@ -1,5 +1,6 @@
 #include <cmath>
 #include <random>
+#include <cassert>
 #include <Eigen/Dense>
 #include "aggregate_gen_SA.hpp"
 using namespace Eigen;

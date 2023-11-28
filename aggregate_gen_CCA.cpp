@@ -4,6 +4,7 @@
 #include <cmath>
 #include <random>
 #include <chrono>
+#include <cassert>
 #include <Eigen/Dense>
 #include <omp.h>
 #include "aggregate_gen_SA.hpp"
